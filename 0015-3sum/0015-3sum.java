@@ -1,37 +1,71 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>>arr=new ArrayList<>();
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        // Step 1: Sort the array
         Arrays.sort(nums);
-        for(int i=0;i<nums.length;i++){
-             if(i > 0 && nums[i] == nums[i-1]){
-        continue;
-         }
-             int p=i+1;
-        int q=nums.length-1;
-        
-        while(p<q){
-         if(nums[i]+nums[p]+nums[q]==0){
-                   List<Integer>r=Arrays.asList(nums[i],nums[p], nums[q]);
-                   arr.add(r);
-                   p++;
-                   q--;
-          while(p < q && nums[p] == nums[p-1]){
-                        p++;
+
+        // Step 2: Fix one element
+        for (int i = 0; i < nums.length - 2; i++) {
+
+            // If nums[i] > 0, sum can never be 0
+            if (nums[i] > 0) {
+                break;
+            }
+
+            // Skip duplicate fixed elements
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+
+            // Step 3: Two pointers
+            int left = i + 1;
+            int right = nums.length - 1;
+
+            while (left < right) {
+
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum == 0) {
+
+                    // Found a valid triplet
+                    result.add(Arrays.asList(
+                        nums[i],
+                        nums[left],
+                        nums[right]
+                    ));
+
+                    // Move both pointers
+                    left++;
+                    right--;
+
+                    // Skip duplicate left values
+                    while (left < right &&
+                           nums[left] == nums[left - 1]) {
+                        left++;
                     }
 
                     // Skip duplicate right values
-                    while(p < q && nums[q] == nums[q+1]){
-                        q--;
+                    while (left < right &&
+                           nums[right] == nums[right + 1]) {
+                        right--;
                     }
-        }
-         else if(nums[p]+nums[i]+nums[q]<0){
-            p++;
-         }
-         else{
-            q--;
+
+                } 
+                else if (sum < 0) {
+                    // Need a bigger sum
+                    left++;
+                } 
+                else {
+                    // Need a smaller sum
+                    right--;
+                }
             }
         }
-        }
-  return arr;
+
+        return result;
     }
 }
