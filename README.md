@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/malli-tech/java-dsa-365/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/malli-tech/java-dsa-365/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/malli-tech/java-dsa-365/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0011-container-with-most-water](https://github.com/malli-tech/java-dsa-365/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/malli-tech/java-dsa-365/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/malli-tech/java-dsa-365/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/malli-tech/java-dsa-365/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
@@ -49,4 +51,16 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/malli-tech/java-dsa-365/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
