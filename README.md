@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/malli-tech/java-dsa-365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/malli-tech/java-dsa-365/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
@@ -22,11 +23,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/malli-tech/java-dsa-365/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/malli-tech/java-dsa-365/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/malli-tech/java-dsa-365/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/malli-tech/java-dsa-365/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/malli-tech/java-dsa-365/tree/master/0344-reverse-string) |
 ## Sliding Window
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/malli-tech/java-dsa-365/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
