@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/malli-tech/java-dsa-365/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/malli-tech/java-dsa-365/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/malli-tech/java-dsa-365/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/malli-tech/java-dsa-365/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
