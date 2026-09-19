@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/malli-tech/java-dsa-365/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/malli-tech/java-dsa-365/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/malli-tech/java-dsa-365/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -60,6 +62,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/malli-tech/java-dsa-365/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/malli-tech/java-dsa-365/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -72,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/malli-tech/java-dsa-365/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +101,9 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/malli-tech/java-dsa-365/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
