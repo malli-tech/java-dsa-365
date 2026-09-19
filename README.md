@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/malli-tech/java-dsa-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/malli-tech/java-dsa-365/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malli-tech/java-dsa-365/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/malli-tech/java-dsa-365/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/malli-tech/java-dsa-365/tree/master/0217-contains-duplicate) |
@@ -105,5 +106,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/malli-tech/java-dsa-365/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
