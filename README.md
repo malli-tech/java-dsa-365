@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/malli-tech/java-dsa-365/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 | [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/malli-tech/java-dsa-365/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/malli-tech/java-dsa-365/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/malli-tech/java-dsa-365/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
