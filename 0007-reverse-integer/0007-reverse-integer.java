@@ -13,9 +13,7 @@ class Solution {
             if (n < Integer.MIN_VALUE / 10 ||
                 (n == Integer.MIN_VALUE / 10 && rem < -8)) {
                 return 0;
-            }
-
-          
+                }
             n=n*10+rem;
             x/=10;
         }
