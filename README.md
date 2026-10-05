@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/malli-tech/java-dsa-365/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
+| [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
