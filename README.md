@@ -52,6 +52,7 @@
 | [0242-valid-anagram](https://github.com/malli-tech/java-dsa-365/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/malli-tech/java-dsa-365/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/malli-tech/java-dsa-365/tree/master/0387-first-unique-character-in-a-string) |
+| [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/malli-tech/java-dsa-365/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
