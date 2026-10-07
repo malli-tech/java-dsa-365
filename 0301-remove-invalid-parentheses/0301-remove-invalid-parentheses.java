@@ -1,77 +1,59 @@
 class Solution {
 
-  private Set<String> validExpressions = new HashSet<String>();
-  private int minimumRemoved;
+    Set<String> validExpressions = new HashSet<>();
+    int minimumRemoved = Integer.MAX_VALUE;
 
-  private void reset() {
-    this.validExpressions.clear();
-    this.minimumRemoved = Integer.MAX_VALUE;
-  }
+    void recurse(String s, int index, int leftCount, int rightCount,
+                 StringBuilder expression, int removedCount) {
 
-  private void recurse(
-      String s,
-      int index,
-      int leftCount,
-      int rightCount,
-      StringBuilder expression,
-      int removedCount) {
+        if (index == s.length()) {
 
-    // If we have reached the end of string.
-    if (index == s.length()) {
+            if (leftCount == rightCount) {
 
-      // If the current expression is valid.
-      if (leftCount == rightCount) {
+                if (removedCount < minimumRemoved) {
+                    validExpressions.clear();
+                    minimumRemoved = removedCount;
+                }
 
-        // If the current count of removed parentheses is <= the current minimum count
-        if (removedCount <= this.minimumRemoved) {
+                if (removedCount == minimumRemoved) {
+                    validExpressions.add(expression.toString());
+                }
+            }
 
-          // Convert StringBuilder to a String. This is an expensive operation.
-          // So we only perform this when needed.
-          String possibleAnswer = expression.toString();
-
-          // If the current count beats the overall minimum we have till now
-          if (removedCount < this.minimumRemoved) {
-            this.validExpressions.clear();
-            this.minimumRemoved = removedCount;
-          }
-          this.validExpressions.add(possibleAnswer);
-        }
-      }
-    } else {
-
-      char currentCharacter = s.charAt(index);
-      int length = expression.length();
-
-      // If the current character is neither an opening bracket nor a closing one,
-      // simply recurse further by adding it to the expression StringBuilder
-      if (currentCharacter != '(' && currentCharacter != ')') {
-        expression.append(currentCharacter);
-        this.recurse(s, index + 1, leftCount, rightCount, expression, removedCount);
-        expression.deleteCharAt(length);
-      } else {
-
-        // Recursion where we delete the current character and move forward
-        this.recurse(s, index + 1, leftCount, rightCount, expression, removedCount + 1);
-        expression.append(currentCharacter);
-
-        // If it's an opening parenthesis, consider it and recurse
-        if (currentCharacter == '(') {
-          this.recurse(s, index + 1, leftCount + 1, rightCount, expression, removedCount);
-        } else if (rightCount < leftCount) {
-          // For a closing parenthesis, only recurse if right < left
-          this.recurse(s, index + 1, leftCount, rightCount + 1, expression, removedCount);
+            return;
         }
 
-        // Undoing the append operation for other recursions.
+        char c = s.charAt(index);
+        int length = expression.length();
+
+        // Remove
+        if (c == '(' || c == ')') {
+            recurse(s, index + 1, leftCount, rightCount,
+                    expression, removedCount + 1);
+        }
+
+        // Keep
+        expression.append(c);
+
+        if (c == '(') {
+            recurse(s, index + 1, leftCount + 1, rightCount,
+                    expression, removedCount);
+        }
+        else if (c == ')' && rightCount < leftCount) {
+            recurse(s, index + 1, leftCount, rightCount + 1,
+                    expression, removedCount);
+        }
+        else if (c != '(' && c != ')') {
+            recurse(s, index + 1, leftCount, rightCount,
+                    expression, removedCount);
+        }
+
+        // Backtrack
         expression.deleteCharAt(length);
-      }
     }
-  }
 
-  public List<String> removeInvalidParentheses(String s) {
-
-    this.reset();
-    this.recurse(s, 0, 0, 0, new StringBuilder(), 0);
-    return new ArrayList(this.validExpressions);
-  }
+    public List<String> removeInvalidParentheses(String s) {
+        recurse(s, 0, 0, 0, new StringBuilder(), 0);
+        return new ArrayList<>(validExpressions);
+    }
 }
