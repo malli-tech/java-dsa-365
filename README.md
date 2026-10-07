@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/malli-tech/java-dsa-365/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/malli-tech/java-dsa-365/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/malli-tech/java-dsa-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/malli-tech/java-dsa-365/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/malli-tech/java-dsa-365/tree/master/0136-single-number) |
@@ -174,6 +175,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/malli-tech/java-dsa-365/tree/master/0054-spiral-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/malli-tech/java-dsa-365/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/malli-tech/java-dsa-365/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
