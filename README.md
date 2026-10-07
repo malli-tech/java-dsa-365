@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/malli-tech/java-dsa-365/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/malli-tech/java-dsa-365/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/malli-tech/java-dsa-365/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/malli-tech/java-dsa-365/tree/master/0387-first-unique-character-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
@@ -173,4 +174,12 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
