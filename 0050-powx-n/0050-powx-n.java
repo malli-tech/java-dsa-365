@@ -1,6 +1,6 @@
 class Solution {
     public double myPow(double x, int n) {
-        double q=x;
+        double q;
         if(n==0){
             return 1;
         }
