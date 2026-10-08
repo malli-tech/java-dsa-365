@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/malli-tech/java-dsa-365/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/malli-tech/java-dsa-365/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/malli-tech/java-dsa-365/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
@@ -44,6 +45,7 @@
 | [0347-top-k-frequent-elements](https://github.com/malli-tech/java-dsa-365/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/malli-tech/java-dsa-365/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/malli-tech/java-dsa-365/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/malli-tech/java-dsa-365/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -112,6 +114,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/malli-tech/java-dsa-365/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/1021-remove-outermost-parentheses) |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/malli-tech/java-dsa-365/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
