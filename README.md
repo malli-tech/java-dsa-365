@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/malli-tech/java-dsa-365/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/malli-tech/java-dsa-365/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/malli-tech/java-dsa-365/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/malli-tech/java-dsa-365/tree/master/0242-valid-anagram) |
@@ -109,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/malli-tech/java-dsa-365/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -172,6 +174,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/1021-remove-outermost-parentheses) |
