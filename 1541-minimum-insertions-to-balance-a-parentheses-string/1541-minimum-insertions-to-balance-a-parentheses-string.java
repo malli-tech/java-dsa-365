@@ -8,15 +8,9 @@ class Solution {
             if (s.charAt(i) == '(') {
                 open++;
 
-                // Every '(' needs two ')'
-                if (open > 0 && i + 1 < s.length()
-                        && s.charAt(i + 1) == ')') {
-                    // This condition is not needed here
-                }
-
                 i++;
             } else {
-                // If the next ')' is missing, insert one
+
                 if (i + 1 < s.length() && s.charAt(i + 1) == ')') {
                     i += 2;
                 } else {
@@ -27,7 +21,7 @@ class Solution {
                 if (open > 0) {
                     open--;
                 } else {
-                    // Insert '(' to match these closing parentheses
+
                     insertions++;
                 }
             }
