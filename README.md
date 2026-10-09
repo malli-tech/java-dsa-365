@@ -61,6 +61,7 @@
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/malli-tech/java-dsa-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/malli-tech/java-dsa-365/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/malli-tech/java-dsa-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/malli-tech/java-dsa-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 | [0856-score-of-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malli-tech/java-dsa-365/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malli-tech/java-dsa-365/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/malli-tech/java-dsa-365/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
