@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malli-tech/java-dsa-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/malli-tech/java-dsa-365/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/malli-tech/java-dsa-365/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malli-tech/java-dsa-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -218,4 +220,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/malli-tech/java-dsa-365/tree/master/0155-min-stack) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malli-tech/java-dsa-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malli-tech/java-dsa-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
