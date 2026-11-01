@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/malli-tech/java-dsa-365/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/malli-tech/java-dsa-365/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/malli-tech/java-dsa-365/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/malli-tech/java-dsa-365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/malli-tech/java-dsa-365/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@
 | [0189-rotate-array](https://github.com/malli-tech/java-dsa-365/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/malli-tech/java-dsa-365/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/malli-tech/java-dsa-365/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/malli-tech/java-dsa-365/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
