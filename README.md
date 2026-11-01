@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/malli-tech/java-dsa-365/tree/master/0704-binary-search) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malli-tech/java-dsa-365/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/malli-tech/java-dsa-365/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malli-tech/java-dsa-365/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/malli-tech/java-dsa-365/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/malli-tech/java-dsa-365/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/malli-tech/java-dsa-365/tree/master/2574-left-and-right-sum-differences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
